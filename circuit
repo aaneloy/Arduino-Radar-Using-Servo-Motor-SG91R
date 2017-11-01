@@ -1,0 +1,12 @@
+ Construct the circuit by following-
+  
+  => connect GND VCC connection of Sonar
+   => white wire of Servo is the VCC, Brown is the GND and Orange is the output signal. So connect VCC and GND of the Servo
+   => Now connect echo and trig pin of Sonar
+
+Thats it !! now join the coding Section
+
+1. First upload the Servo.ino File and Edit your pin number according to your circuit.
+2. Upload the Arduino Processing Code.
+3. Open the Processing IDE
+
