@@ -1,7 +1,7 @@
 # Arduino Radar Using Servo Motor SG91R
 Simple Arduino Uno project with Ultrasonic Sensor HC-SR04 and Servo Motor SG91R and other basic kits
 
-#Construct the circuit by following-
+# Construct the circuit by following-
   
   => connect GND VCC connection of Sonar
    => white wire of Servo is the VCC, Brown is the GND and Orange is the output signal. So connect VCC and GND of the Servo
